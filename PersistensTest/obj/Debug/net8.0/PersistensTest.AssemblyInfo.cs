@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PersistensTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd71d42ca3ba8778319c1a3f3786657b963af290")]
 [assembly: System.Reflection.AssemblyProductAttribute("PersistensTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PersistensTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

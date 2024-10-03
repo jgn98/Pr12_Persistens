@@ -108,6 +108,7 @@
 /Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/PersistensTest/obj/Debug/net8.0/PersistensTest.AssemblyInfoInputs.cache
 /Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/PersistensTest/obj/Debug/net8.0/PersistensTest.AssemblyInfo.cs
 /Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/PersistensTest/obj/Debug/net8.0/PersistensTest.csproj.CoreCompileInputs.cache
+/Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/PersistensTest/obj/Debug/net8.0/PersistensTest.sourcelink.json
 /Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/PersistensTest/obj/Debug/net8.0/Persiste.A2D3AB2A.Up2Date
 /Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/PersistensTest/obj/Debug/net8.0/PersistensTest.dll
 /Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/PersistensTest/obj/Debug/net8.0/refint/PersistensTest.dll

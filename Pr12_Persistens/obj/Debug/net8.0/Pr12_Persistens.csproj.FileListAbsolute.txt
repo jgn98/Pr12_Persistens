@@ -12,3 +12,4 @@
 /Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/Pr12_Persistens/obj/Debug/net8.0/Pr12_Persistens.pdb
 /Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/Pr12_Persistens/obj/Debug/net8.0/Pr12_Persistens.genruntimeconfig.cache
 /Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/Pr12_Persistens/obj/Debug/net8.0/ref/Pr12_Persistens.dll
+/Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/Pr12_Persistens/obj/Debug/net8.0/Pr12_Persistens.sourcelink.json
