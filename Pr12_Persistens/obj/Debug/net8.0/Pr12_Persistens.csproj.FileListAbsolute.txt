@@ -1,0 +1,14 @@
+/Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/Pr12_Persistens/bin/Debug/net8.0/Pr12_Persistens
+/Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/Pr12_Persistens/bin/Debug/net8.0/Pr12_Persistens.deps.json
+/Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/Pr12_Persistens/bin/Debug/net8.0/Pr12_Persistens.runtimeconfig.json
+/Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/Pr12_Persistens/bin/Debug/net8.0/Pr12_Persistens.dll
+/Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/Pr12_Persistens/bin/Debug/net8.0/Pr12_Persistens.pdb
+/Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/Pr12_Persistens/obj/Debug/net8.0/Pr12_Persistens.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/Pr12_Persistens/obj/Debug/net8.0/Pr12_Persistens.AssemblyInfoInputs.cache
+/Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/Pr12_Persistens/obj/Debug/net8.0/Pr12_Persistens.AssemblyInfo.cs
+/Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/Pr12_Persistens/obj/Debug/net8.0/Pr12_Persistens.csproj.CoreCompileInputs.cache
+/Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/Pr12_Persistens/obj/Debug/net8.0/Pr12_Persistens.dll
+/Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/Pr12_Persistens/obj/Debug/net8.0/refint/Pr12_Persistens.dll
+/Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/Pr12_Persistens/obj/Debug/net8.0/Pr12_Persistens.pdb
+/Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/Pr12_Persistens/obj/Debug/net8.0/Pr12_Persistens.genruntimeconfig.cache
+/Users/jonasg.nielsen/RiderProjects/Pr12_Persistens/Pr12_Persistens/obj/Debug/net8.0/ref/Pr12_Persistens.dll
